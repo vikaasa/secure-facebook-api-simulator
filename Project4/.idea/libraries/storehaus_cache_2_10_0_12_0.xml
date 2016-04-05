@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="storehaus-cache_2.10-0.12.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/storehaus-cache_2.10-0.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/util-core_2.11-6.30.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
